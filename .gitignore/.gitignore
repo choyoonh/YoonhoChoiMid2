@@ -1,0 +1,9 @@
+# Yoonho Choi 991587217
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
